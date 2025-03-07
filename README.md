@@ -3,7 +3,7 @@
 
 
 ## About Me
-- I’m an Azure cloud/DevOps engineer, with a major interest in serverless compute and AI research. I also have a background in automation testing
+- Azure Cloud/DevOps Engineer. Intrests in Cloud Computing and AI research. Background in automation testing.
 
 ## Technical Skills
 - DevOps: Azure, Docker, Terraform
