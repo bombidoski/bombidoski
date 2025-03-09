@@ -8,7 +8,7 @@
 ## Technical Skills
 - DevOps: Azure, Docker, Terraform
 - Programming Languages: Python, Bash
-- OS Stack: Linux and Ubuntu
+- OS Stack: Linux, Ubuntu
 - Database Stack: Mysql
 - Tools and technologies: Git, GitHub, VSCode, 
 
