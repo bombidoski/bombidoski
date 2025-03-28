@@ -10,7 +10,7 @@
 - Programming Languages: Python, Bash
 - OS Stack: Linux, Windows
 - Database Stack: Mysql
-- Tools and technologies: Git, GitHub, VSCode, 
+- Tools and technologies: Git, GitHub, VSCode, Jira
 
 ## Contact Me
 LinkedIn: https://www.linkedin.com/in/collinsikwueze/ 
